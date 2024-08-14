@@ -1,0 +1,31 @@
+NXP Software Content Register
+
+Package:                   an-continuous-sram-address-usage-on-mcxa15x
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This software configure and use the SRAM X0 Alias to form continuous SRAM address, and validate the feasibility of continuous SRAM address.
+Release Location:          https://github.com/nxp-appcodehub/an-continuous-sram-address-usage-on-mcxa15x
+Origin:                    NXP (BSD-3-Clause)
+                           cmsis - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+                           cmsis_iccarm - IAR Systems, ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+                             
+cmsis                      Name: CMSIS                                       
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: IAR/CMSIS/LICENSE.txt
+					                     Keil/CMSIS/LICENSE.txt
+					                     MCUXpresso/CMSIS/LICENSE.txt               
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm Cortex processors, distributed by ARM. cores          
+                           Release Location：https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0    
+                           Origin: ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+
+cmsis_iccarm               Name: cmsis_iccarm.h                                     
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: CMSIS/LICENSE.txt                   
+                           Format: header files                               
+                           Description and comments: Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm Cortex processors, distributed by ARM. cores     
+                           Release Location: https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0          
+                           Origin: IAR Systems, ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0

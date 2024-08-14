@@ -1,0 +1,25 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" type="app_note" format="projectfile" versionSchema="1.0.0" name="continuous sram address MCXA15x" uuid="cb6f37db-3591-4cf8-ae10-5e225c6aa090">
+    <display_title>
+        continuous SRAM address usage on MCXA15x
+    </display_title>
+    <overview>
+        <![CDATA[This software configure and use the SRAM X0 Alias to form continuous SRAM address, and validate the feasibility of continuous SRAM address.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+        <toolchain name="iar"></toolchain>
+        <toolchain name="mdk"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXA156"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="dma"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="memory"></category>
+    </categories>
+</data:item>
